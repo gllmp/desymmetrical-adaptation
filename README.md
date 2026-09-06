@@ -1,6 +1,6 @@
 # De-symmetrical Adaptation — Spatial Audio Prototype
 
-Artist: **Keigo Yoshida**<br>
+Artist: **Keigo Yoshida**  
 Spatial Audio Prototype: **Guillaume Piccarreta**
 
 Use **dot_area_spat_explorer.maxpat** as the main audio engine, optionally driven
@@ -22,7 +22,7 @@ Reload from disk if Max still has an older version open.
 For WebGL:
 
 ```sh
-cd "/webgl"
+cd webgl
 nvm use 22.22.2
 npm install
 npm run dev
