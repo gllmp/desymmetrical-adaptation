@@ -13,6 +13,12 @@ Start with [DEMO_CHECKLIST.md](DEMO_CHECKLIST.md). The detailed web/OSC guide is
 are in [VALIDATION.md](VALIDATION.md); recovery findings are in
 [RECOVERY_AUDIT.md](RECOVERY_AUDIT.md).
 
+## Max prototype
+
+![Dot Area / De-symmetrical Adaptation Max prototype — installation, shadow mapping and Spat controls](assets/desymmetrical-adaptation-max-prototype-01.png)
+
+![Dot Area / De-symmetrical Adaptation Max prototype — source, monitoring and OSC controls](assets/desymmetrical-adaptation-max-prototype-02.png)
+
 ## Launch
 
 Open [dot_area_spat_explorer.maxpat](dot_area_spat_explorer.maxpat) in Max 9.
